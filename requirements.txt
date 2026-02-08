@@ -1,0 +1,5 @@
+discord.py
+open-interpreter
+psutil
+cryptography
+gTTS
